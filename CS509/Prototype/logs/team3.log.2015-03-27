@@ -1,0 +1,222 @@
+2015-03-26 22:39:53,216 - System: Welcome to Bluefly Airline
+ 2015-03-26 22:39:53,378 - System: Please enter the departing airport:
+ 2015-03-26 22:39:57,516 - Client: BOS
+ 2015-03-26 22:39:57,516 - System: Please enter the arriving airport:
+ 2015-03-26 22:40:00,828 - Client: PHL
+ 2015-03-26 22:40:00,829 - System: Please enter the departing date(Format: YYYY_MM_DD; Valid Date: 2015_05_07 - 2015_05_18):
+ 2015-03-26 22:40:07,901 - Client: 2015_05_09
+ 2015-03-26 22:40:08,083 - System: These are the searching results:
+ 2015-03-26 22:40:08,084 - 
+System: Selection 2
+ 2015-03-26 22:40:08,084 - System: Airplane 757 | FlightTime 44 | Number 1757
+Dep_Code BOS | Dep_Time 2015 May 09 12:00 GMT
+Arv_CodePHL | Arv_Time 2015 May 09 12:44 GMT
+FirstClass_Price 103.02 | FirstClass_SoldNum 13 | FirstClass_Left 19 | Coach_Price 19.39 | Coach_SoldNum 74 | Coach_Left 96
+
+ 2015-03-26 22:40:08,084 - System: Which one do you want to buy?(Please input 1,2,3...etc; 0 exit)
+ 2015-03-26 22:40:10,044 - Client: 1
+ 2015-03-26 22:40:10,045 - System: What kind of ticket do you want to buy?(0: FirstClass, 1: Coach)
+ 2015-03-26 22:40:10,593 - Client: 1
+ 2015-03-26 22:40:10,593 - System: How many tickets do you want to buy?
+ 2015-03-26 22:40:11,209 - Client: 1
+ 2015-03-26 22:40:11,218 - System: Purchase Successful!
+
+ 2015-03-26 22:40:11,319 - System: The updated flight information:
+ 2015-03-26 22:40:11,499 - System: Airplane 757 | FlightTime 44 | Number 1757
+Dep_Code BOS | Dep_Time 2015 May 09 12:00 GMT
+Arv_CodePHL | Arv_Time 2015 May 09 12:44 GMT
+FirstClass_Price 103.02 | FirstClass_SoldNum 13 | FirstClass_Left 19 | Coach_Price 19.39 | Coach_SoldNum 75 | Coach_Left 95
+
+
+ 2015-03-26 22:40:17,451 - System: Welcome to Bluefly Airline
+ 2015-03-26 22:40:17,562 - System: Please enter the departing airport:
+ 2015-03-26 22:40:19,645 - Client: BOS
+ 2015-03-26 22:40:19,645 - System: Please enter the arriving airport:
+ 2015-03-26 22:40:21,396 - Client: LGA
+ 2015-03-26 22:40:21,396 - System: Please enter the departing date(Format: YYYY_MM_DD; Valid Date: 2015_05_07 - 2015_05_18):
+ 2015-03-26 22:40:29,102 - Client: 2015_05_07
+ 2015-03-26 22:40:29,157 - System: These are the searching results:
+ 2015-03-26 22:40:29,157 - System: Flight not found!
+ 2015-03-26 22:44:38,902 - System: Welcome to Bluefly Airline
+ 2015-03-26 22:44:39,058 - System: Please enter the departing airport:
+ 2015-03-26 22:44:46,910 - System: Welcome to Bluefly Airline
+ 2015-03-26 22:44:47,032 - System: Please enter the departing airport:
+ 2015-03-26 22:44:50,251 - Client: BOS
+ 2015-03-26 22:44:50,251 - System: Please enter the arriving airport:
+ 2015-03-26 22:44:54,207 - Client: LGA
+ 2015-03-26 22:44:54,207 - System: Please enter the departing date(Format: YYYY_MM_DD; Valid Date: 2015_05_07 - 2015_05_18):
+ 2015-03-26 22:45:03,822 - Client: 2015_05_12
+ 2015-03-26 22:45:04,351 - System: These are the searching results:
+ 2015-03-26 22:45:04,352 - 
+System: Selection 3
+ 2015-03-26 22:45:04,352 - System: Airplane 757 | FlightTime 27 | Number 1890
+Dep_Code BOS | Dep_Time 2015 May 12 12:23 GMT
+Arv_CodeLGA | Arv_Time 2015 May 12 12:50 GMT
+FirstClass_Price 64.68 | FirstClass_SoldNum 15 | FirstClass_Left 17 | Coach_Price 12.18 | Coach_SoldNum 79 | Coach_Left 91
+
+ 2015-03-26 22:45:04,353 - 
+System: Selection 4
+ 2015-03-26 22:45:04,353 - System: Airplane 767 | FlightTime 29 | Number 1902
+Dep_Code BOS | Dep_Time 2015 May 12 18:37 GMT
+Arv_CodeLGA | Arv_Time 2015 May 12 19:06 GMT
+FirstClass_Price 20.89 | FirstClass_SoldNum 59 | FirstClass_Left 45 | Coach_Price 10.86 | Coach_SoldNum 37 | Coach_Left 163
+
+ 2015-03-26 22:45:04,353 - System: Which one do you want to buy?(Please input 1,2,3...etc; 0 exit)
+ 2015-03-26 22:45:05,306 - Client: 1
+ 2015-03-26 22:45:05,307 - System: What kind of ticket do you want to buy?(0: FirstClass, 1: Coach)
+ 2015-03-26 22:45:06,306 - Client: 1
+ 2015-03-26 22:45:06,306 - System: How many tickets do you want to buy?
+ 2015-03-26 22:45:07,016 - Client: 1
+ 2015-03-26 22:45:07,016 - System: Purchase Successful!
+
+ 2015-03-26 22:45:07,132 - System: The updated flight information:
+ 2015-03-26 22:45:07,338 - System: Airplane 757 | FlightTime 27 | Number 1890
+Dep_Code BOS | Dep_Time 2015 May 12 12:23 GMT
+Arv_CodeLGA | Arv_Time 2015 May 12 12:50 GMT
+FirstClass_Price 64.68 | FirstClass_SoldNum 15 | FirstClass_Left 17 | Coach_Price 12.18 | Coach_SoldNum 80 | Coach_Left 90
+
+
+ 2015-03-26 23:02:05,626 - System: Welcome to Bluefly Airline
+ 2015-03-26 23:02:05,854 - System: Please enter the departing airport:
+ 2015-03-26 23:03:32,558 - System: Welcome to Bluefly Airline
+ 2015-03-26 23:03:32,658 - System: Please enter the departing airport:
+ 2015-03-26 23:03:47,201 - Client: xzc
+ 2015-03-26 23:03:47,201 - System: Please enter the arriving airport:
+ 2015-03-26 23:03:49,070 - Client: xzcz
+ 2015-03-26 23:03:49,071 - System: Please enter the departing date(Format: YYYY_MM_DD; Valid Date: 2015_05_07 - 2015_05_18):
+ 2015-03-26 23:03:51,170 - Client: zxcz
+ 2015-03-26 23:03:51,231 - System: These are the searching results:
+ 2015-03-26 23:03:51,232 - System: Flight not found!
+ 2015-03-26 23:04:14,001 - System: Welcome to Bluefly Airline
+ 2015-03-26 23:04:14,095 - System: Please enter the departing airport:
+ 2015-03-26 23:04:22,247 - Client: zxcz
+ 2015-03-26 23:04:22,247 - System: Please enter the arriving airport:
+ 2015-03-26 23:04:22,995 - Client: zxcz
+ 2015-03-26 23:04:22,995 - System: Please enter the departing date(Format: YYYY_MM_DD; Valid Date: 2015_05_07 - 2015_05_18):
+ 2015-03-26 23:04:24,423 - Client: xzcz
+ 2015-03-26 23:04:24,465 - System: These are the searching results:
+ 2015-03-26 23:04:24,465 - System: Flight not found!
+ 2015-03-26 23:11:02,934 - System: Welcome to Bluefly Airline
+ 2015-03-26 23:11:03,126 - System: Please enter the departing airport:
+ 2015-03-26 23:11:07,823 - Client: BOS
+ 2015-03-26 23:11:07,823 - System: Please enter the arriving airport:
+ 2015-03-26 23:11:22,551 - Client: SFS
+ 2015-03-26 23:11:22,551 - System: Please enter the departing date(Format: YYYY_MM_DD; Valid Date: 2015_05_07 - 2015_05_18):
+ 2015-03-26 23:11:36,809 - Client: 2015_05_09
+ 2015-03-26 23:11:36,905 - System: These are the searching results:
+ 2015-03-26 23:11:36,906 - System: Flight not found!
+ 2015-03-26 23:13:56,822 - System: Welcome to Bluefly Airline
+ 2015-03-26 23:13:57,007 - System: Please enter the departing airport:
+ 2015-03-26 23:16:16,066 - Client: BOS
+ 2015-03-26 23:16:16,066 - System: Please enter the arriving airport:
+ 2015-03-26 23:16:49,849 - System: Welcome to Bluefly Airline
+ 2015-03-26 23:16:50,109 - System: Please enter the departing airport:
+ 2015-03-26 23:17:07,724 - Client: BOS
+ 2015-03-26 23:17:07,725 - System: Please enter the arriving airport:
+ 2015-03-26 23:17:10,201 - Client: STL
+ 2015-03-26 23:17:10,202 - System: Please enter the departing date(Format: YYYY_MM_DD; Valid Date: 2015_05_07 - 2015_05_18):
+ 2015-03-26 23:17:17,329 - Client: 2015_05_09
+ 2015-03-26 23:17:17,429 - System: These are the searching results:
+ 2015-03-26 23:17:17,430 - System: Flight not found!
+ 2015-03-26 23:17:35,545 - System: Welcome to Bluefly Airline
+ 2015-03-26 23:17:35,736 - System: Please enter the departing airport:
+ 2015-03-26 23:17:37,931 - Client: BOS
+ 2015-03-26 23:17:37,935 - System: Please enter the arriving airport:
+ 2015-03-26 23:17:40,157 - Client: TPA
+ 2015-03-26 23:17:40,157 - System: Please enter the departing date(Format: YYYY_MM_DD; Valid Date: 2015_05_07 - 2015_05_18):
+ 2015-03-26 23:17:46,952 - Client: 2015_05-10
+ 2015-03-26 23:17:46,989 - System: These are the searching results:
+ 2015-03-26 23:17:46,989 - System: Flight not found!
+ 2015-03-26 23:18:24,846 - System: Welcome to Bluefly Airline
+ 2015-03-26 23:18:25,026 - System: Please enter the departing airport:
+ 2015-03-26 23:18:26,162 - Client: BOS
+ 2015-03-26 23:18:26,163 - System: Please enter the arriving airport:
+ 2015-03-26 23:18:29,151 - Client: SEA
+ 2015-03-26 23:18:29,151 - System: Please enter the departing date(Format: YYYY_MM_DD; Valid Date: 2015_05_07 - 2015_05_18):
+ 2015-03-26 23:18:35,127 - Client: 2015_0518
+ 2015-03-26 23:18:35,160 - System: These are the searching results:
+ 2015-03-26 23:18:35,160 - System: Flight not found!
+ 2015-03-26 23:18:40,105 - System: Welcome to Bluefly Airline
+ 2015-03-26 23:18:40,282 - System: Please enter the departing airport:
+ 2015-03-26 23:18:42,465 - Client: BOS
+ 2015-03-26 23:18:42,466 - System: Please enter the arriving airport:
+ 2015-03-26 23:18:45,308 - Client: IAD
+ 2015-03-26 23:18:45,308 - System: Please enter the departing date(Format: YYYY_MM_DD; Valid Date: 2015_05_07 - 2015_05_18):
+ 2015-03-26 23:18:51,309 - Client: 2015_05_10
+ 2015-03-26 23:18:51,450 - System: These are the searching results:
+ 2015-03-26 23:18:51,451 - 
+System: Selection 2
+ 2015-03-26 23:18:51,451 - System: Airplane A310 | FlightTime 50 | Number 1798
+Dep_Code BOS | Dep_Time 2015 May 10 08:55 GMT
+Arv_CodeIAD | Arv_Time 2015 May 10 09:45 GMT
+FirstClass_Price 158.9 | FirstClass_SoldNum 5 | FirstClass_Left 19 | Coach_Price 19.07 | Coach_SoldNum 92 | Coach_Left 108
+
+ 2015-03-26 23:18:51,451 - System: Which one do you want to buy?(Please input 1,2,3...etc; 0 exit)
+ 2015-03-26 23:19:00,558 - Client: 1
+ 2015-03-26 23:19:00,558 - System: What kind of ticket do you want to buy?(0: FirstClass, 1: Coach)
+ 2015-03-26 23:19:03,440 - Client: 0
+ 2015-03-26 23:19:03,441 - System: How many tickets do you want to buy?
+ 2015-03-26 23:20:06,870 - System: Welcome to Bluefly Airline
+ 2015-03-26 23:20:07,106 - System: Please enter the departing airport:
+ 2015-03-26 23:20:10,426 - Client: BO
+ 2015-03-26 23:20:10,430 - System: Please enter the arriving airport:
+ 2015-03-26 23:20:12,208 - Client: 
+ 2015-03-26 23:20:12,208 - System: Please enter the departing date(Format: YYYY_MM_DD; Valid Date: 2015_05_07 - 2015_05_18):
+ 2015-03-26 23:20:12,826 - Client: 
+ 2015-03-26 23:20:21,400 - System: Welcome to Bluefly Airline
+ 2015-03-26 23:20:21,602 - System: Please enter the departing airport:
+ 2015-03-26 23:20:24,460 - Client: BOS
+ 2015-03-26 23:20:24,465 - System: Please enter the arriving airport:
+ 2015-03-26 23:20:29,614 - Client: SEA
+ 2015-03-26 23:20:29,615 - System: Please enter the departing date(Format: YYYY_MM_DD; Valid Date: 2015_05_07 - 2015_05_18):
+ 2015-03-26 23:20:35,909 - Client: 2015_05_07
+ 2015-03-26 23:20:35,950 - System: These are the searching results:
+ 2015-03-26 23:20:35,950 - System: Flight not found!
+ 2015-03-26 23:20:42,065 - System: Welcome to Bluefly Airline
+ 2015-03-26 23:20:42,273 - System: Please enter the departing airport:
+ 2015-03-26 23:20:43,549 - Client: BOS
+ 2015-03-26 23:20:43,555 - System: Please enter the arriving airport:
+ 2015-03-26 23:20:53,655 - Client: JFK
+ 2015-03-26 23:20:53,655 - System: Please enter the departing date(Format: YYYY_MM_DD; Valid Date: 2015_05_07 - 2015_05_18):
+ 2015-03-26 23:20:59,690 - Client: 2015_05_09
+ 2015-03-26 23:20:59,825 - System: These are the searching results:
+ 2015-03-26 23:20:59,825 - 
+System: Selection 2
+ 2015-03-26 23:20:59,825 - System: Airplane A380 | FlightTime 23 | Number 1763
+Dep_Code BOS | Dep_Time 2015 May 09 14:03 GMT
+Arv_CodeJFK | Arv_Time 2015 May 09 14:26 GMT
+FirstClass_Price 13.56 | FirstClass_SoldNum 57 | FirstClass_Left 71 | Coach_Price 4.07 | Coach_SoldNum 83 | Coach_Left 344
+
+ 2015-03-26 23:20:59,825 - System: Which one do you want to buy?(Please input 1,2,3...etc; 0 exit)
+ 2015-03-26 23:21:01,637 - Client: 1
+ 2015-03-26 23:21:01,637 - System: What kind of ticket do you want to buy?(0: FirstClass, 1: Coach)
+ 2015-03-26 23:21:19,584 - Client: 0
+ 2015-03-26 23:21:19,584 - System: How many tickets do you want to buy?
+ 2015-03-26 23:21:21,444 - Client: 1
+ 2015-03-26 23:21:21,444 - System: Purchase Successful!
+
+ 2015-03-26 23:21:21,497 - System: The updated flight information:
+ 2015-03-26 23:21:21,643 - System: Airplane A380 | FlightTime 23 | Number 1763
+Dep_Code BOS | Dep_Time 2015 May 09 14:03 GMT
+Arv_CodeJFK | Arv_Time 2015 May 09 14:26 GMT
+FirstClass_Price 13.56 | FirstClass_SoldNum 57 | FirstClass_Left 71 | Coach_Price 4.07 | Coach_SoldNum 83 | Coach_Left 344
+
+
+ 2015-03-26 23:22:07,512 - System: Welcome to Bluefly Airline
+ 2015-03-26 23:22:07,715 - System: Please enter the departing airport:
+ 2015-03-26 23:22:10,859 - Client: BOS
+ 2015-03-26 23:22:10,860 - System: Please enter the arriving airport:
+ 2015-03-26 23:22:12,969 - Client: JFK
+ 2015-03-26 23:22:12,971 - System: Please enter the departing date(Format: YYYY_MM_DD; Valid Date: 2015_05_07 - 2015_05_18):
+ 2015-03-26 23:22:19,291 - Client: 2015_05_09
+ 2015-03-26 23:22:19,434 - System: These are the searching results:
+ 2015-03-26 23:22:19,434 - 
+System: Selection 2
+ 2015-03-26 23:22:19,434 - System: Airplane A380 | FlightTime 23 | Number 1763
+Dep_Code BOS | Dep_Time 2015 May 09 14:03 GMT
+Arv_CodeJFK | Arv_Time 2015 May 09 14:26 GMT
+FirstClass_Price 13.56 | FirstClass_SoldNum 57 | FirstClass_Left 71 | Coach_Price 4.07 | Coach_SoldNum 83 | Coach_Left 344
+
+ 2015-03-26 23:22:19,435 - System: Which one do you want to buy?(Please input 1,2,3...etc; 0 exit)
+ 2015-03-26 23:22:21,248 - Client: 1
+ 
